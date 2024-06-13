@@ -1,8 +1,8 @@
-**Avalanche Challengue**
+# Avalanche: A Network of Networks
 
-Gain a high-level understanding of Avalanche's Network architecture, Subnet deployment, and potentially a Teleporter bridge deployment.
+>Gain a high-level understanding of Avalanche's Network architecture, Subnet deployment, and potentially a Teleporter bridge deployment.
 
-**Proof**
+### **Proof**
 
 1. Create mysubnet
 ![alt text](image.png)

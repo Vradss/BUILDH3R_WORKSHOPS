@@ -1,12 +1,12 @@
-**Algorand Challengue** 
+# Building with Python on Algorand
 
-1. Create 2 algorands Accounts
-2. Create an Algorand Standard Asset
-3. Transfer the created asset to opposite account
-4. Clawback “X” number of created asset
+> Challengue
+    >1. Create 2 algorands Accounts
+    >2. Create an Algorand Standard Asset
+    >3. Transfer the created asset to opposite account
+    >4. Clawback “X” number of created asset
 
 
-**Proof**
+### **Proof**
 
-![algorand](https://github.com/Vradss/BUILDH3R_WORKSHOPS/assets/105650269/5722265b-5c95-4abc-ba62-6aa29a20295c)
->>>>>>> ea0b75854afc3593fbb140f23b961f203294e6ad
+![alt text](algorand.png)
