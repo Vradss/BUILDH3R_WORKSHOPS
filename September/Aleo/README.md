@@ -15,7 +15,7 @@ transition claim(bid: Bid) -> Prize {
 Aleo wallet: aleo17wgcyfl4ydksa43c39qvnqd29gz2hc5gnk0xnhrky2hu6q020vxqema2pk
 
 
-⌛ Deployment at1kt7rdcva6e4hfg9l2xupk9dv5g46dyruaqf3g4twhywmq4fajgpqxvgzfx ('aleo_auction_task.aleo')
+⌛ Deployment ``` at1kt7rdcva6e4hfg9l2xupk9dv5g46dyruaqf3g4twhywmq4fajgpqxvgzfx ``` ('aleo_auction_task.aleo')
 
 ![image](https://github.com/user-attachments/assets/79e99ceb-50b3-4771-a7bb-2499cdcda7cd)
 
