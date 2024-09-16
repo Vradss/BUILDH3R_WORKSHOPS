@@ -1,0 +1,43 @@
+first bid
+{
+  owner: aleo1njruyzm7jpmrygkga4mu5et56egx2dyxz7r970dq2whjtglntyps3dpmr9.private,
+  bidder: aleo1nj4w95despqanfwg890vakyak7lte2r8sp9cgfa233gdsmzlkc8s8mwc2q.private,
+  amount: 40u64.private,
+  is_winner: false.private,
+  _nonce: 200341958185818198269087785764581120731885512142725413198058532101229216669group.public
+}
+
+
+
+second bid
+{
+  owner: aleo1njruyzm7jpmrygkga4mu5et56egx2dyxz7r970dq2whjtglntyps3dpmr9.private,
+  bidder: aleo1r9rdqd0rd35ryzdl6cezk2pd04pmxqq29y2medv3e8lgptlzcsxqf7emq7.private,
+  amount: 3u64.private,
+  is_winner: false.private,
+  _nonce: 6789629427143124027555623756334972703365521775696887844580580144558421919696group.public
+}
+
+
+leo run resolve "{
+  owner: aleo1njruyzm7jpmrygkga4mu5et56egx2dyxz7r970dq2whjtglntyps3dpmr9.private,
+  bidder: aleo1nj4w95despqanfwg890vakyak7lte2r8sp9cgfa233gdsmzlkc8s8mwc2q.private,
+  amount: 40u64.private,
+  is_winner: false.private,
+  _nonce: 200341958185818198269087785764581120731885512142725413198058532101229216669group.public
+}
+" "{
+  owner: aleo1njruyzm7jpmrygkga4mu5et56egx2dyxz7r970dq2whjtglntyps3dpmr9.private,
+  bidder: aleo1r9rdqd0rd35ryzdl6cezk2pd04pmxqq29y2medv3e8lgptlzcsxqf7emq7.private,
+  amount: 3u64.private,
+  is_winner: false.private,
+  _nonce: 6789629427143124027555623756334972703365521775696887844580580144558421919696group.public
+}"
+
+resolve output {
+  owner: aleo1njruyzm7jpmrygkga4mu5et56egx2dyxz7r970dq2whjtglntyps3dpmr9.private,
+  bidder: aleo1nj4w95despqanfwg890vakyak7lte2r8sp9cgfa233gdsmzlkc8s8mwc2q.private,
+  amount: 40u64.private,
+  is_winner: false.private,
+  _nonce: 5181422434245313299083198197890440121839903564928497686985452593373996305543group.public
+}
