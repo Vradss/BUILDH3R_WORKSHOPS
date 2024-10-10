@@ -2,8 +2,8 @@
 
 ````My Wallet: 0x41C9133be0a4486bE1f09a8c7E34cE6213F0CA0E````
 
-1. Proof Deploy: 
-![image](https://github.com/user-attachments/assets/a7e8a2bd-817d-458a-8946-89abf3844fe4)
+1. Proof Deploy:
+![image_deploy_contract](deploy_contract_oct.png)
 
 2. Information:
 
@@ -13,7 +13,8 @@
 ### Contract details: 0x7eF1b279371e50F7ABd4DD06fa6BA358E524536B
 
 URL: https://sepolia-explorer.metisdevops.link/address/0x7eF1b279371e50F7ABd4DD06fa6BA358E524536B
-![image](https://github.com/user-attachments/assets/7b1441cc-4c08-4258-808e-49075b91dba9)
+
+![image_contract_details](contract_details.png)
 
 
 
